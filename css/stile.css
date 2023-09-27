@@ -208,6 +208,7 @@ i {
   text-align: center;
   font-size: 38px;
   margin-bottom: 14px;
+  margin-top: 50px;
 }
 .services-content p {
   line-height: 150%;
@@ -270,6 +271,12 @@ i {
     max-width: 740px;
   }
 }
+.localization h2 {
+  margin-bottom: 50px;
+  margin-top: 20px;
+  font-size: 38px;
+}
+
 .footer {
   display: flex;
   flex-direction: column;
